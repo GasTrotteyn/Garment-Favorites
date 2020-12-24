@@ -1,0 +1,19 @@
+.product-item {
+    display: inline-block;
+    border: 1px solid #acaaaa;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.product-item h2 {
+    font-size: 1.15rem;
+    margin: 0.25rem 0;
+}
+
+.product-item h2.is-fav {
+    color: #ff2058;
+}
+
+.product-item p {
+    margin: 0.25rem 0;
+}
